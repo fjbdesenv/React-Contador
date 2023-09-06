@@ -26,9 +26,8 @@ Execute os seguites comandos, necessario instalar `git` e `node`:
 3. npm install && npm run start
 
 ## 👀 Tecnologias utilizadas
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-![HTML](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 
 ## ✏️ Autores
 | [<img src="https://avatars.githubusercontent.com/u/110018406?v=4" width=115><br><sub>Fábio Júnior Barbosa</sub>](https://github.com/fjbdesenv) |
